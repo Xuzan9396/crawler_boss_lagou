@@ -9,6 +9,6 @@
 
 ## 数据获取
 ```
-cd lagou && go run mian.go
+cd lagou && go run main.go
 cd boss && go run main.go
 ```
